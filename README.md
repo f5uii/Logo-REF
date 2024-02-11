@@ -17,6 +17,3 @@ Ce logo est distribué sous licence Creative Commons Attribution - Pas d'Utilisa
 ## Vector REF Logo preview
 
 ![Logo REF](Images/Logo%20REF%20by%20f5uii.net.svg)
-
-
-
