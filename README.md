@@ -1,4 +1,4 @@
-# README
+# REF Logo / Logo du REF
 
 ## About the Logo / A propos du logo
 
